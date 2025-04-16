@@ -2,15 +2,44 @@ h1{
     text-align: center;
     color:yellow;
 }
-div{
+#one{
     height: 300px;
     color:red;
     background-color: green;
 }
 .do{
+    margin-right: 125px;
     color:white;
+    text-decoration: none;
 }
 header{
-    height:100px;
+    height:60px;
     background-color: black;
+}
+#two{
+
+    height:300px;
+    width:100px;
+    background-color:aqua;
+}
+#green{
+
+    height:100px;
+    width:100px;
+    background-color:green;
+    border-radius: 50%;
+}
+#red{
+
+    height:100px;
+    width:100px;
+    background-color:red;
+    border-radius: 50%;
+}
+#yellow{
+
+    height:100px;
+    width:100px;
+    background-color:yellow;
+    border-radius: 50%;
 }
