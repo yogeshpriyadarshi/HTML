@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color:yellow;
+}
+div{
+    height: 300px;
+    color:red;
+    background-color: green;
+}
+.do{
+    color:white;
+}
+header{
+    height:100px;
+    background-color: black;
+}
