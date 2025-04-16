@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    color:yellow;
+    color:red;
 }
 #one{
     height: 300px;
@@ -18,28 +18,30 @@ header{
 }
 #two{
 
-    height:300px;
-    width:100px;
+    height:200px;
     background-color:aqua;
 }
 #green{
-
+display: inline-block;
     height:100px;
     width:100px;
     background-color:green;
     border-radius: 50%;
+    text-align: center;
 }
 #red{
-
+display: inline-block;
     height:100px;
     width:100px;
     background-color:red;
     border-radius: 50%;
+    text-align: center;
 }
 #yellow{
-
+display:inline-block;
     height:100px;
     width:100px;
     background-color:yellow;
     border-radius: 50%;
+    text-align: center;
 }
