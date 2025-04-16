@@ -18,11 +18,12 @@ header{
 }
 #two{
 
-    height:200px;
+    height:100px;
     background-color:aqua;
 }
 #green{
 display: inline-block;
+line-height: 100px;
     height:100px;
     width:100px;
     background-color:green;
@@ -31,6 +32,7 @@ display: inline-block;
 }
 #red{
 display: inline-block;
+line-height: 100px;
     height:100px;
     width:100px;
     background-color:red;
@@ -39,6 +41,7 @@ display: inline-block;
 }
 #yellow{
 display:inline-block;
+line-height: 100px;
     height:100px;
     width:100px;
     background-color:yellow;
